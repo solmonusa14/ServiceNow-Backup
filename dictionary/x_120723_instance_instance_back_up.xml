@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Instance Back up" max_length="40" name="x_120723_instance_instance_back_up" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Value" max_length="100" name="u_value" type="string"/>
+    </element>
+</database>

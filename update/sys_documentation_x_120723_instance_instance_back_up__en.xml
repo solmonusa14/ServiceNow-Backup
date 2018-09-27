@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Instance Back up" language="en" table="x_120723_instance_instance_back_up">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Instance Back up</label>
+            <language>en</language>
+            <name>x_120723_instance_instance_back_up</name>
+            <plural>Instance Back ups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sullemankhan</sys_created_by>
+            <sys_created_on>2018-09-27 18:20:17</sys_created_on>
+            <sys_id>bab815f5db742300e1c085184b9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Instance Back up</sys_name>
+            <sys_package display_value="Instance Backup" source="x_120723_instance">2a481139db342300e1c085184b9619f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instance Backup">2a481139db342300e1c085184b9619f9</sys_scope>
+            <sys_update_name>sys_documentation_x_120723_instance_instance_back_up__en</sys_update_name>
+            <sys_updated_by>sullemankhan</sys_updated_by>
+            <sys_updated_on>2018-09-27 18:20:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
